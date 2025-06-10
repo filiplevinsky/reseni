@@ -1,0 +1,1 @@
+Vytvoř jsem readme.md
