@@ -1,1 +1,1 @@
-Vytvoř jsem readme.md
+Vytvoř jsem readme.md a reseni
